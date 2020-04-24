@@ -4,7 +4,7 @@
 ## Code (TBD)
 ## Paper (Real-Time Vision Tasks)
 #### Object Detection
-1. [YOLOv4: Optimal Speed and Accuracy of Object Detection. In arXiv'2020.](https://arxiv.org/abs/2004.10934) [Official Code by Darknet](https://github.com/AlexeyAB/darknet#how-to-use-on-the-command-line)
+1. [YOLOv4: Optimal Speed and Accuracy of Object Detection. In arXiv'2020.](https://arxiv.org/abs/2004.10934) [Official Code by Darknet (C)](https://github.com/AlexeyAB/darknet#how-to-use-on-the-command-line)
 #### re-Identification
 #### Tracking
 ## Contributors
