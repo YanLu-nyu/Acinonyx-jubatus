@@ -7,4 +7,4 @@
 1. [YOLOv4: Optimal Speed and Accuracy of Object Detection. In arXiv'2020.](https://arxiv.org/abs/2004.10934) [Official Code by Darknet (C)](https://github.com/AlexeyAB/darknet#how-to-use-on-the-command-line)
 2. [YOLOv3: An Incremental Improvement. In arXiv'2018.](https://arxiv.org/abs/1804.02767) [Official Code by Darknet (C)](https://github.com/AlexeyAB/darknet#how-to-use-on-the-command-line) / [Unofficial Code by Pytorch (Python)](https://github.com/ultralytics/yolov3) - the most popular model in real-time object detection.
 ## Contributors
-* [Yan Lu](https://github.com/YanLu-nyu)
+* [Yan Lu](https://sites.google.com/view/yanluhome)
