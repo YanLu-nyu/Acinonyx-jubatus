@@ -3,8 +3,10 @@
 ## Installation and Documentation (TBD)
 ## Code (TBD)
 ## Paper (TBD)
-#### Object Detection
+#### Efficient Models
 1. [YOLOv4: Optimal Speed and Accuracy of Object Detection. In arXiv'2020.](https://arxiv.org/abs/2004.10934) [Official Code by Darknet (C)](https://github.com/AlexeyAB/darknet#how-to-use-on-the-command-line)
 2. [YOLOv3: An Incremental Improvement. In arXiv'2018.](https://arxiv.org/abs/1804.02767) [Official Code by Darknet (C)](https://github.com/AlexeyAB/darknet#how-to-use-on-the-command-line) / [Unofficial Code by Pytorch (Python)](https://github.com/ultralytics/yolov3) - the most popular model in real-time object detection.
+#### Useful Tricks
+1. [Computation Reallocation for Object Detection. In ICLR'20.](https://iclr.cc/virtual_2020/poster_SkxLFaNKwB.html)
 ## Contributors
 * [Yan Lu](https://sites.google.com/view/yanluhome)
