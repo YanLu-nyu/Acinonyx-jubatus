@@ -1,5 +1,5 @@
 # Cheetah
-**Cheetah** is a deep learning optimization library that object detection easy, efficient, and effective like deep. <br>
+**Cheetah** is a deep learning optimization library that object detection easy, efficient, and effective like DeepSpeed. <br>
 Prior to our implementation, I listed some influencing papers in real-time detection and summarized their common efficient components. Based on these modules, we built **Cheetah**, an API for real-time object detection. Unlike [mmdetection](https://github.com/open-mmlab/mmdetection), [deep-person-reid](https://github.com/KaiyangZhou/deep-person-reid) and [pysot](https://github.com/STVIR/pysot), **Cheetah** paid more attention to **real-time features** and provided **more developer-friendly code through modular design** (the minimal unit is the common component like feature pyramid module and isn't the whole model like YOLOv3). Inspired by [mmdetection](https://github.com/open-mmlab/mmdetection), we would try to implement Cheetah by Pytorch. In the end, we also provide codes for speeding up training and inference on CPU and GPU (CUDA).
 ## Installation and Documentation (TBD)
 ## Code (TBD)
