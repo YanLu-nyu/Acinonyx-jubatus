@@ -7,6 +7,7 @@
   - Model Development (ONNX, TensorRT and Triton)
   - End2end Profiling (Triton and DCGM)
   - Advanced Optimization (TVM)
+  - Documentation (User Guide and Installation)
  
 ## ViT Models
 <!-- In the end, we also provide codes for speeding up training and inference on Pytorch and GPU (CUDA). -->
